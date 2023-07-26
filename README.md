@@ -1,13 +1,14 @@
 ## About Me
 
 Hello there! 👋 I'm Rick Porto, a student at the Universidade Federal do Estado do Rio de Janeiro (UNIRIO), pursuing my passion for programming and software development. I have a keen interest in a wide range of programming languages and technologies, and I'm always eager to learn and explore new things. Here are some of the key areas I work with:
-
+<div>
 <img loading="lazy" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
 <img loading="lazy" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
 <img loading="lazy" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
 <img loading="lazy" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
 <img loading="lazy" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+</div>
 
 ## Contact
 
