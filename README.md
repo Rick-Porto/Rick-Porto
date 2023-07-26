@@ -14,7 +14,7 @@ Hello there! 👋 I'm Rick Porto, a student at the Universidade Federal do Estad
 You can connect with me through various platforms:
 <div>
 <a href="mailto:contato@rickmarco4@hotmail.com" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-<a href="https://www.instagram.com/rick_portoo/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/rick_portoo/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/rick-porto-a5003917b/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 Feel free to reach out if you have any questions, collaboration ideas, or just want to chat about technology and coding!
